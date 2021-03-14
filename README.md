@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RonakRamwani
 - 👀 I’m Passionate Programmmer Love To Solve The Problems 
-- 🌱 I’m currently Studying In Computer Science enginnering
+- 🌱 I’m currently Studying In Computer Science Enginnering
 
 
 <!---
